@@ -1,7 +1,7 @@
 {
   "engines": {
     "node": "8.11.2",
-    "npm": "6.8.0"
+    "npm": "6.4.1"
   },
   "name": "revents",
   "version": "0.1.0",
@@ -45,13 +45,9 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
+    "babel-core": "^6.26.3",
     "redux-devtools-extension": "^2.13.2",
     "source-map-explorer": "^1.5.0"
-  },
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
-  ]
+  }
+  
 }
